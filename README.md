@@ -5,8 +5,9 @@ Since childhood, I harbored a steadfast determination to pursue a career in CS. 
 - ⚡️ Core JS
 - 💅🏽 Core CSS
 - 🐚 Python Flask
+- 
+### About me
 
-<br/>
 - 🔭 I’m currently working on Phishing detection with XAI techniques
 - 🌱 I’m currently learning Robotic process automation and Intelligent applications
 - 📫 How to reach me: https://www.linkedin.com/in/sruthi-raghavan-340642221/
