@@ -8,7 +8,6 @@ Since childhood, I harbored a steadfast determination to pursue a career in CS. 
 
 ### About me
 
-- 🔭 I’m currently working on Phishing detection with XAI techniques
 - 🌱 I’m currently learning Robotic process automation and Intelligent applications
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a coffee - addict
@@ -16,7 +15,6 @@ Since childhood, I harbored a steadfast determination to pursue a career in CS. 
 ### Contact:
 
 <span>[📷 Linkedin](https://www.linkedin.com/in/sruthi-raghavan-340642221/)</span>
-<span>[🐦 Twitter](https://twitter.com/SruthiRaghavan4)</span>
 <span>[📝 Blog](https://sruthiraghavan2002.medium.com/)</span>
 <span>[📝 Instagram](https://www.instagram.com/sruthi._10/)</span>
 
