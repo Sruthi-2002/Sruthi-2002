@@ -11,9 +11,8 @@
 ### 💫 About Me
 
 Since childhood, I’ve been determined to pursue a career in **Computer Science** — a journey built on curiosity, problem-solving, and perseverance.  
-My passion for **C++** began in ninth grade and soon evolved into a deep love for coding and technology.  
 
-Coding is more than a skill for me — it’s a mindset. Whether I’m solving problems on **CodeChef**, working on elegant **UI designs**, or debugging with a mug of coffee by my side, I’m constantly learning and growing.  
+Coding is more than a skill for me — it’s a mindset. Whether I’m solving problems, working on elegant **UI designs**, or debugging with a mug of coffee by my side, I’m constantly learning and growing.  
 
 Through my journey as a **Web Developer**, I’ve explored the art of building **visually appealing and user-centric experiences**. My long-term vision is to grow into a **Software Development Engineer (SDE)** who bridges creativity and functionality seamlessly.
 
@@ -40,8 +39,7 @@ Through my journey as a **Web Developer**, I’ve explored the art of building *
 
 ### 🧡 Fun Bits About Me
 
-- ☕ I’m an unashamed **coffee addict** — code and caffeine go hand in hand!  
-- 🎯 I love solving coding challenges and refining logic through **competitive programming**.  
+- ☕ I’m a **coffee addict** — code and caffeine go hand in hand!  
 - 🎨 A strong believer that design and functionality must go together.  
 - 💬 Always open to learning, collaborating, and exploring innovative ideas.  
 
