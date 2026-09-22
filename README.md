@@ -1,12 +1,8 @@
-<h1 align="center">✨ Hey there, I'm Sruthi 👋</h1>
-
 <p align="center">
-  <img src="./coding-girl.svg" alt="Sruthi coding with a cup of coffee" width="700"/>
+  <img src="./coding-girl.svg" alt="Hey there, I'm Sruthi Raghavan: ML Engineer, Computer Vision, Vision-Language Systems, UI and 3D Design" width="760"/>
 </p>
 
 <p align="center">
-  🤖 <b>ML Engineer · Computer Vision · Vision-Language Systems</b> <br>
-  🎨 Passionate about Creative UI Design and 3D Design <br>
   🎓 M.S. Computer Engineering, <b>NYU Tandon</b> (December 2026) <br>
   ☕ Fueled by Coffee | Driven by Curiosity | Guided by Code
 </p>
@@ -47,7 +43,7 @@ Today I build **machine learning systems** that turn messy, real-world data into
 - 📊 **Big Data & Machine Learning (PySpark)**
 - ⚡ **Core JavaScript** · 💅🏽 **Core CSS** · 🐚 **Python Flask**
 - 🎨 **UI Design & Progressive Web Apps**
-- 🧊 **3D Design & CAD:** [ADD YOUR TOOLS, e.g. Fusion 360, SolidWorks, Blender] · NYU Hyperloop Electrical & CAD team
+- 🧊 **3D Design & CAD** · NYU Hyperloop Electrical & CAD team
 - 🧩 **RISC-V Simulator (Architecture Project)**
 
 ---
