@@ -82,10 +82,3 @@ Today I build **machine learning systems** that turn messy, real-world data into
   <img src="https://streak-stats.demolab.com?user=Sruthi-2002&theme=radical&hide_border=true" alt="streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sruthi-2002&show_icons=true&theme=radical&hide_border=true" alt="stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sruthi-2002&layout=compact&theme=radical&hide_border=true" alt="top langs"/>
-</p>
