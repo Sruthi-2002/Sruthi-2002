@@ -1,8 +1,13 @@
 <h1 align="center">✨ Hey there, I'm Sruthi Raghavan 👋</h1>
 
 <p align="center">
-  💻 <b>Aspiring Software Development Engineer (SDE)</b> <br>
-  🌸 Passionate about Frontend Development, Competitive Coding, and Creative UI Design <br>
+  <img src="./coding-girl.svg" alt="Sruthi coding with a cup of coffee" width="700"/>
+</p>
+
+<p align="center">
+  🤖 <b>ML Engineer · Computer Vision · Vision-Language Systems</b> <br>
+  🎨 Passionate about Creative UI Design and 3D Design <br>
+  🎓 M.S. Computer Engineering, <b>NYU Tandon</b> (December 2026) <br>
   ☕ Fueled by Coffee | Driven by Curiosity | Guided by Code
 </p>
 
@@ -10,55 +15,76 @@
 
 ### 💫 About Me
 
-Since childhood, I’ve been determined to pursue a career in **Computer Science** — a journey built on curiosity, problem-solving, and perseverance.  
+Since childhood, I've been determined to pursue a career in **Computer Science**, a journey built on curiosity, problem-solving and perseverance.
 
-Coding is more than a skill for me — it’s a mindset. Whether I’m solving problems, working on elegant **UI designs**, or debugging with a mug of coffee by my side, I’m constantly learning and growing.  
+Today I build **machine learning systems** that turn messy, real-world data into something people can trust, and I care just as much about how those systems **look and feel** to use. My work sits where **ML infrastructure**, **computer vision** and **design** meet: training and running models efficiently, getting reliable structure out of chaotic inputs, and shaping interfaces and 3D models that make complex things clear.
 
-Through my journey as a **Web Developer**, I’ve explored the art of building **visually appealing and user-centric experiences**. My long-term vision is to grow into a **Software Development Engineer (SDE)** who bridges creativity and functionality seamlessly.
+---
+
+### 🚀 Highlights
+
+- 📜 **Vision-Language Document Pipeline** · *NYU Faber Lab*
+  Built an OCR pipeline with **Qwen2.5-VL** that transcribed **73,441 historical mortgage records (~150,000 page images)** for housing-discrimination research, running **6 concurrent GPU jobs on SLURM** and finishing all 30 batches in about 2 weeks.
+
+- ⚡ **LLM Fine-Tuning Efficiency Benchmark**
+  Compared **LoRA, QLoRA, GoRA and gradient checkpointing** on Qwen2.5-1.5B. GoRA gave **~15% higher throughput**, and **Nsight** profiling traced it to GPU utilization rising from **4.2% to 70.3%**.
+
+- 🚁 **Drone-Assisted Crack Detection**
+  **YOLOv8** infrastructure inspection with a hand-annotated dataset, benchmarked against **Faster R-CNN**.
+
+- 🌍 **UNESCO Data Governance Tool** · *The GovLab*
+  Designed and built a live self-assessment **PWA** (56 questions, 4 dimensions) adopted for course use, with direct positive feedback from UNESCO.
+
+- 🏆 **SiteIQ** · *3rd place, Anti-Slopathon (50+ teams)*
+  Real-estate intelligence agent producing structured investment verdicts from map-based property search.
 
 ---
 
 ### 🛠️ Built Projects With
 
-- ⚡ **Core JavaScript**  
-- 💅🏽 **Core CSS**  
-- 🐚 **Python Flask**  
-- 🧠 **Tesseract OCR & OpenCV (Computer Vision)**  
-- 🧩 **RISC-V Simulator (Architecture Project)**  
-- 📊 **Big Data & Machine Learning (PySpark)**  
+- 🤖 **PyTorch, Hugging Face PEFT, LoRA / QLoRA, Vision-Language Models**
+- 👁️ **YOLOv8, Faster R-CNN, OpenCV, Tesseract OCR (Computer Vision)**
+- ⚙️ **HPC / SLURM, Distributed Training, Nsight, Docker, Linux**
+- 📊 **Big Data & Machine Learning (PySpark)**
+- ⚡ **Core JavaScript** · 💅🏽 **Core CSS** · 🐚 **Python Flask**
+- 🎨 **UI Design & Progressive Web Apps**
+- 🧊 **3D Design & CAD:** [ADD YOUR TOOLS, e.g. Fusion 360, SolidWorks, Blender] · NYU Hyperloop Electrical & CAD team
+- 🧩 **RISC-V Simulator (Architecture Project)**
 
 ---
 
 ### 🌱 Currently Exploring
 
-- 🤖 **Robotic Process Automation (RPA)**  
-- 🧬 **Intelligent Applications**  
-- 🧠 **AI-Powered Automation**  
+- 🤖 **AI Agents & Intelligent Automation**
+- ⚡ **Efficient Inference & Model Optimization**
+- 🎨 **Where 3D, UI and ML meet**
 
 ---
 
 ### 🧡 Fun Bits About Me
 
-- ☕ I’m a **coffee addict** — code and caffeine go hand in hand!  
-- 🎨 A strong believer that design and functionality must go together.  
-- 💬 Always open to learning, collaborating, and exploring innovative ideas.  
+- ☕ I'm a **coffee addict**, code and caffeine go hand in hand!
+- 🎨 A strong believer that design and functionality must go together.
+- 💬 Always open to learning, collaborating and exploring innovative ideas.
 
 ---
 
 ### 💼 Connect With Me
 
 <p align="center">
+  <a href="https://sruthi-2002.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-FE428E?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sruthi-raghavan-340642221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://sruthiraghavan2002.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="mailto:sruthiraghavan2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/sruthi._10/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-<h3 align="center">🚀 “Building cool things with code, one cup of coffee at a time.” ☕</h3>
+<h3 align="center">🚀 "Building cool things with code, one cup of coffee at a time." ☕</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sruthi-2002&theme=radical&hide_border=true" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=Sruthi-2002&theme=radical&hide_border=true" alt="streak"/>
 </p>
 
 <p align="center">
