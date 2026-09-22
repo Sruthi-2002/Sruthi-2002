@@ -35,8 +35,7 @@ Today I build **machine learning systems** that turn messy, real-world data into
 - 🌍 **UNESCO Data Governance Tool** · *The GovLab*
   Designed and built a live self-assessment **PWA** (56 questions, 4 dimensions) adopted for course use, with direct positive feedback from UNESCO.
 
-- 🏆 **SiteIQ** · *3rd place, Anti-Slopathon (50+ teams)*
-  Real-estate intelligence agent producing structured investment verdicts from map-based property search.
+
 
 ---
 
