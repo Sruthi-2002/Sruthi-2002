@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./coding-girl.svg" alt="Hey there, I'm Sruthi Raghavan: ML Engineer, Computer Vision, Vision-Language Systems, UI and 3D Design" width="760"/>
+  <img src="./coding-girl1.svg" alt="Hey there, I'm Sruthi Raghavan: ML Engineer, Computer Vision, Vision-Language Systems, UI and 3D Design" width="760"/>
 </p>
 
 <p align="center">
