@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hey there, I'm Sruthi Raghavan 👋</h1>
+<h1 align="center">✨ Hey there, I'm Sruthi 👋</h1>
 
 <p align="center">
   <img src="./coding-girl.svg" alt="Sruthi coding with a cup of coffee" width="700"/>
