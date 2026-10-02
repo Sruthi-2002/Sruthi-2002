@@ -1,84 +1,55 @@
 <p align="center">
-  <img src="./coding-girl1.svg" alt="Hey there, I'm Sruthi Raghavan: ML Engineer, Computer Vision, Vision-Language Systems, UI and 3D Design" width="760"/>
+  <img src="./coding-girl1.svg" alt="Sruthi Raghavan — machine learning, computer vision, vision-language systems, UI and 3D design" width="760"/>
 </p>
 
 <p align="center">
-  🎓 M.S. Computer Engineering, <b>NYU Tandon</b> (December 2026) <åbr>
-  ☕ Fueled by Coffee | Driven by Curiosity | Guided by Code
+  M.S. Computer Engineering · NYU · December 2026<br>
+  Open to ML/AI engineering roles
 </p>
 
----
+```text
+$ whoami
+ML engineer building vision-language pipelines and making training cheaper to run.
+I care as much about how a system feels to use as how it performs.
+```
 
-### 💫 About Me
+### Selected work
 
-Since childhood, I've been determined to pursue a career in **Computer Science**, a journey built on curiosity, problem-solving and perseverance.
+**Vision-language OCR at archive scale** · Redlining Lab, NYU  
+Qwen2.5-VL pipeline that transcribed 73,441 historical mortgage records (~150,000 pages, 1935–1975) for housing-discrimination research. 6 concurrent GPU jobs on SLURM; all 30 batches in ~2 weeks.
 
-Today I build **machine learning systems** that turn messy, real-world data into something people can trust, and I care just as much about how those systems **look and feel** to use. My work sits where **ML infrastructure**, **computer vision** and **design** meet: training and running models efficiently, getting reliable structure out of chaotic inputs, and shaping interfaces and 3D models that make complex things clear.
+**LLM fine-tuning efficiency benchmark**  
+LoRA, QLoRA, GoRA, and gradient checkpointing on Qwen2.5-1.5B-Instruct / GSM8K. GoRA gave ~15% more throughput at comparable accuracy; Nsight profiling traced it to compute utilization rising from 4.2% to 70.3%.
 
----
+**UNESCO Data Governance self-assessment** · The GovLab · [live](https://datagov.opendatapolicylab.org/)  
+Offline-capable PWA — 56 questions across 4 dimensions, adopted for course use.
 
-### 🚀 Highlights
+**Computer vision**  
+Drone-assisted crack detection with YOLOv8 on a hand-annotated dataset (MultiD). Car-defect detection benchmarking YOLO against Faster R-CNN (HCL).
 
-- 📜 **Vision-Language Document Pipeline** · *NYU Faber Lab*
-  Built an OCR pipeline with **Qwen2.5-VL** that transcribed **73,441 historical mortgage records (~150,000 page images)** for housing-discrimination research, running **6 concurrent GPU jobs on SLURM** and finishing all 30 batches in about 2 weeks.
+**SruthiOS** · [open](https://sruthi-2002.github.io/Portfolio/)  
+My portfolio — a working Windows desktop in the browser.
 
-- ⚡ **LLM Fine-Tuning Efficiency Benchmark**
-  Compared **LoRA, QLoRA, GoRA and gradient checkpointing** on Qwen2.5-1.5B. GoRA gave **~15% higher throughput**, and **Nsight** profiling traced it to GPU utilization rising from **4.2% to 70.3%**.
+### Writing & recognition
 
-- 🚁 **Drone-Assisted Crack Detection**
-  **YOLOv8** infrastructure inspection with a hand-annotated dataset, benchmarked against **Faster R-CNN**.
+- Co-author, [*Identifying A Global Demand: Inside the Applications to our Indigenous Languages Incubator*](https://newcommons.ai/blog/identifying-a-global-demand-inside-the-applications-to-our-indigenous-languages-incubator) — Open Data Policy Lab, The GovLab (2026)
+- 3rd of 50+ teams, Anti-Slopathon — SiteIQ, a real-estate intelligence agent
 
-- 🌍 **UNESCO Data Governance Tool** · *The GovLab*
-  Designed and built a live self-assessment **PWA** (56 questions, 4 dimensions) adopted for course use, with direct positive feedback from UNESCO.
+### Toolkit
 
+**ML** · PyTorch · Hugging Face PEFT · LoRA/QLoRA · vision-language models · YOLOv8 · Faster R-CNN · OpenCV · Tesseract  
+**Systems** · HPC/SLURM · distributed training (DDP/FSDP) · Nsight · Docker · Linux · PySpark · RISC-V simulator  
+**Build & design** · Python · C++ · JavaScript · Flask · PWAs · UI design · 3D/CAD (NYU Hyperloop)
 
+### Now exploring
 
----
-
-### 🛠️ Built Projects With
-
-- 🤖 **PyTorch, Hugging Face PEFT, LoRA / QLoRA, Vision-Language Models**
-- 👁️ **YOLOv8, Faster R-CNN, OpenCV, Tesseract OCR (Computer Vision)**
-- ⚙️ **HPC / SLURM, Distributed Training, Nsight, Docker, Linux**
-- 📊 **Big Data & Machine Learning (PySpark)**
-- ⚡ **Core JavaScript** · 💅🏽 **Core CSS** · 🐚 **Python Flask**
-- 🎨 **UI Design & Progressive Web Apps**
-- 🧊 **3D Design & CAD** · NYU Hyperloop Electrical & CAD team
-- 🧩 **RISC-V Simulator (Architecture Project)**
-
----
-
-### 🌱 Currently Exploring
-
-- 🤖 **AI Agents & Intelligent Automation**
-- ⚡ **Efficient Inference & Model Optimization**
-- 🎨 **Where 3D, UI and ML meet**
-
----
-
-### 🧡 Fun Bits About Me
-
-- ☕ I'm a **coffee addict**, code and caffeine go hand in hand!
-- 🎨 A strong believer that design and functionality must go together.
-- 💬 Always open to learning, collaborating and exploring innovative ideas.
-
----
-
-### 💼 Connect With Me
+Agents · efficient inference · where 3D, UI, and ML meet
 
 <p align="center">
-  <a href="https://sruthi-2002.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-FE428E?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sruthi-raghavan-340642221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://sruthiraghavan2002.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="mailto:sruthiraghavan2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/sruthi._10/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://sruthi-2002.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=flat-square&logo=windows&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sruthi-raghavan-340642221/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://sruthiraghavan2002.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/></a>
+  <a href="mailto:sruthiraghavan2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
----
-
-<h3 align="center">🚀 "Building cool things with code, one cup of coffee at a time." ☕</h3>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sruthi-2002&theme=radical&hide_border=true" alt="streak"/>
-</p>
-
+<p align="center"><sub>Runs on coffee.</sub></p>
