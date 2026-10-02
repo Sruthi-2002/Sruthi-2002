@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  🎓 M.S. Computer Engineering, <b>NYU Tandon</b> (December 2026) <br>
+  🎓 M.S. Computer Engineering, <b>NYU Tandon</b> (December 2026) <åbr>
   ☕ Fueled by Coffee | Driven by Curiosity | Guided by Code
 </p>
 
